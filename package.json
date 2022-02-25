@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/netcraft-fullstack-2021/node-basics-demo/issues"
   },
-  "homepage": "https://github.com/netcraft-fullstack-2021/node-basics-demo#readme"
+  "homepage": "https://github.com/netcraft-fullstack-2021/node-basics-demo#readme",
+  "dependencies": {
+    "pad-left": "^2.1.0"
+  }
 }
